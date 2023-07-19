@@ -2,7 +2,8 @@
 
 ---
 
-## создал Ямутов Егор yamutov@yandex.ru
+Cоздал: Ямутов Егор
+Почта: yamutov@yandex.ru
 
 ---
 
